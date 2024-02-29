@@ -1,5 +1,5 @@
 .cafe-shop{
-    height: 300px;
+    height: 250px;
     margin: 100px;
     
 
@@ -10,5 +10,6 @@ background-color: indianred;
 padding: 20px 10px;
 }
 .p{
-    
+    text-align: justify;
+    margin-bottom: 200px;
 }
